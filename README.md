@@ -5,6 +5,8 @@ Recommended for use by anyone developing and/or maintaining Linux FTP site or di
 
 All credit goes to Mark Lord.
 
+the original tarball is included as  *symlinks-1.4.tar.gz*
+
 To compile on OSX:
 
 **gcc-9 -I /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc  -Wall -Wstrict-prototypes -O2 -o symlinks symlinks.c**

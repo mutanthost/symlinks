@@ -14,5 +14,8 @@ To compile on OSX:
 The Mach-O 64-bit executable x86_64 binary *symlinks* was compiled via homebrew on Mojave.
 
 I have successfully tested and ran the binary on High Sierra and El Capitan by simply copying it to /usr/local/bin
+UPDATE: 12.10.2019 
+I have also tested on copying the binary to Yosemite, and it works as well.
+You can also copy the symlinks.8 to the /usr/share/man8 or /usr/local/share/man8 respective to your system for man.
 
 ![Image ](/linkmess.jpg)
